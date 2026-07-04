@@ -1,6 +1,6 @@
-# QR Suite Pro 📱✨
+# QR Dipo 📱✨
 
-**QR Suite Pro** adalah aplikasi Flutter modern yang menggabungkan fitur **Pembuatan (Generator) QR Code** dan **Pemindaian (Scanner) QR Code** secara langsung (real-time) ke dalam satu aplikasi yang elegan dan interaktif.
+**QR Dipo** adalah aplikasi Flutter modern yang menggabungkan fitur **Pembuatan (Generator) QR Code** dan **Pemindaian (Scanner) QR Code** secara langsung (real-time) ke dalam satu aplikasi yang elegan dan interaktif.
 
 Aplikasi ini dirancang dengan estetika modern menggunakan tema gelap Slate premium, aksen gradasi biru muda dan biru gelap, serta animasi transisi yang mulus untuk memberikan pengalaman pengguna yang luar biasa.
 

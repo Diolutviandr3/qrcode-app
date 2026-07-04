@@ -66,7 +66,7 @@ class MyApp extends StatelessWidget {
     );
 
     return MaterialApp(
-      title: 'QR Suite Pro',
+      title: 'QR Dipo',
       debugShowCheckedModeBanner: false,
       theme: darkTheme, // Force dark theme for a premium cyberpunk/tech aesthetic
       themeMode: ThemeMode.dark,
